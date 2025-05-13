@@ -1,0 +1,288 @@
+{
+  "buildings": [
+    {
+      "id": 1,
+      "name": "教学楼A",
+      "location": "东区",
+      "area": 12000,
+      "floors": 6
+    },
+    {
+      "id": 2,
+      "name": "教学楼B",
+      "location": "西区",
+      "area": 8500,
+      "floors": 5
+    },
+    {
+      "id": 3,
+      "name": "教学楼C",
+      "location": "南区",
+      "area": 9500,
+      "floors": 4
+    },
+    {
+      "id": 4,
+      "name": "四维大楼",
+      "location": "北区",
+      "area": 7500,
+      "floors": 5
+    },
+    {
+      "id": 5,
+      "name": "至善大楼",
+      "location": "北区",
+      "area": 6500,
+      "floors": 5
+    }
+  ],
+  "energy": [
+    {
+      "id": 1,
+      "buildingId": 1,
+      "date": "2025-06-01",
+      "electricity": 1250,
+      "water": 85
+    },
+    {
+      "id": 2,
+      "buildingId": 1,
+      "date": "2025-06-02",
+      "electricity": 1320,
+      "water": 82
+    },
+    {
+      "id": 3,
+      "buildingId": 1,
+      "date": "2025-06-03",
+      "electricity": 1180,
+      "water": 78
+    },
+    {
+      "id": 4,
+      "buildingId": 1,
+      "date": "2025-06-04",
+      "electricity": 1200,
+      "water": 86
+    },
+    {
+      "id": 5,
+      "buildingId": 1,
+      "date": "2025-06-05",
+      "electricity": 1450,
+      "water": 90
+    },
+    {
+      "id": 6,
+      "buildingId": 1,
+      "date": "2025-06-06",
+      "electricity": 1220,
+      "water": 89
+    },
+    {
+      "id": 7,
+      "buildingId": 1,
+      "date": "2025-06-07",
+      "electricity": 1550,
+      "water": 75
+    },
+
+    {
+      "id": 8,
+      "buildingId": 2,
+      "date": "2025-06-01",
+      "electricity": 980,
+      "water": 65
+    },
+    {
+      "id": 9,
+      "buildingId": 2,
+      "date": "2025-06-02",
+      "electricity": 1050,
+      "water": 68
+    },
+    {
+      "id": 10,
+      "buildingId": 2,
+      "date": "2025-06-03",
+      "electricity": 1220,
+      "water": 69
+    },
+    {
+      "id": 11,
+      "buildingId": 2,
+      "date": "2025-06-04",
+      "electricity": 1020,
+      "water": 77
+    },
+    {
+      "id": 12,
+      "buildingId": 2,
+      "date": "2025-06-05",
+      "electricity": 1120,
+      "water": 65
+    },
+    {
+      "id": 13,
+      "buildingId": 2,
+      "date": "2025-06-06",
+      "electricity": 1250,
+      "water": 72
+    },
+    {
+      "id": 14,
+      "buildingId": 2,
+      "date": "2025-06-07",
+      "electricity": 990,
+      "water": 74
+    },
+
+    {
+      "id": 15,
+      "buildingId": 3,
+      "date": "2025-06-01",
+      "electricity": 870,
+      "water": 58
+    },
+    {
+      "id": 16,
+      "buildingId": 3,
+      "date": "2025-06-02",
+      "electricity": 890,
+      "water": 60
+    },
+    {
+      "id": 17,
+      "buildingId": 3,
+      "date": "2025-06-03",
+      "electricity": 850,
+      "water": 56
+    },
+    {
+      "id": 18,
+      "buildingId": 3,
+      "date": "2025-06-04",
+      "electricity": 820,
+      "water": 66
+    },
+    {
+      "id": 19,
+      "buildingId": 3,
+      "date": "2025-06-05",
+      "electricity": 950,
+      "water": 59
+    },
+    {
+      "id": 20,
+      "buildingId": 3,
+      "date": "2025-06-06",
+      "electricity": 920,
+      "water": 69
+    },
+    {
+      "id": 21,
+      "buildingId": 3,
+      "date": "2025-06-07",
+      "electricity": 940,
+      "water": 62
+    },
+    {
+      "id": 22,
+      "buildingId": 4,
+      "date": "2025-06-01",
+      "electricity": 880,
+      "water": 55
+    },
+    {
+      "id": 23,
+      "buildingId": 4,
+      "date": "2025-06-02",
+      "electricity": 890,
+      "water": 60
+    },
+    {
+      "id": 24,
+      "buildingId": 4,
+      "date": "2025-06-03",
+      "electricity": 850,
+      "water": 56
+    },
+    {
+      "id": 25,
+      "buildingId": 4,
+      "date": "2025-06-04",
+      "electricity": 820,
+      "water": 66
+    },
+    {
+      "id": 26,
+      "buildingId": 4,
+      "date": "2025-06-05",
+      "electricity": 950,
+      "water": 59
+    },
+    {
+      "id": 27,
+      "buildingId": 4,
+      "date": "2025-06-06",
+      "electricity": 920,
+      "water": 69
+    },
+    {
+      "id": 28,
+      "buildingId": 4,
+      "date": "2025-06-07",
+      "electricity": 940,
+      "water": 62
+    },
+    {
+      "id": 29,
+      "buildingId": 5,
+      "date": "2025-06-01",
+      "electricity": 880,
+      "water": 55
+    },
+    {
+      "id": 30,
+      "buildingId": 5,
+      "date": "2025-06-02",
+      "electricity": 890,
+      "water": 60
+    },
+    {
+      "id": 31,
+      "buildingId": 5,
+      "date": "2025-06-03",
+      "electricity": 850,
+      "water": 56
+    },
+    {
+      "id": 32,
+      "buildingId": 5,
+      "date": "2025-06-04",
+      "electricity": 820,
+      "water": 66
+    },
+    {
+      "id": 33,
+      "buildingId": 5,
+      "date": "2025-06-05",
+      "electricity": 950,
+      "water": 59
+    },
+    {
+      "id": 34,
+      "buildingId": 5,
+      "date": "2025-06-06",
+      "electricity": 920,
+      "water": 69
+    },
+    {
+      "id": 35,
+      "buildingId": 5,
+      "date": "2025-06-07",
+      "electricity": 940,
+      "water": 62
+    }
+  ]
+}
